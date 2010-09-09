@@ -1,0 +1,5 @@
+CONF
+
+require
+	object/object
+	store/store
